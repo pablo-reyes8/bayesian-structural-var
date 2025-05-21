@@ -59,9 +59,15 @@ A self-contained Jupyter notebook that implements a **Bayesian Structural VAR wi
 pip install pandas numpy scipy numdifftools matplotlib seaborn
 ```
 
-## License
-Pablo Reyes
-
 References: 
 
 **J. Jacobo, Una introducción a los métodos de máxima entropía y de inferencia bayesiana en econometría**
+
+## Contributing
+
+Contributions are welcome! Please open issues or submit pull requests at  
+https://github.com/pablo-reyes8
+
+## License
+
+This project is licensed under the Apache License 2.0.  
