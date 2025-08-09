@@ -1,5 +1,14 @@
 # Bayesian Structural VAR (BSVAR) Analysis Notebook
 
+
+![Repo size](https://img.shields.io/github/repo-size/pablo-reyes8/bayesian-structural-var)
+![Last commit](https://img.shields.io/github/last-commit/pablo-reyes8/bayesian-structural-var)
+![Open issues](https://img.shields.io/github/issues/pablo-reyes8/bayesian-structural-var)
+![Contributors](https://img.shields.io/github/contributors/pablo-reyes8/bayesian-structural-var)
+![Forks](https://img.shields.io/github/forks/pablo-reyes8/bayesian-structural-var?style=social)
+![Stars](https://img.shields.io/github/stars/pablo-reyes8/bayesian-structural-var?style=social)
+
+
 A self-contained Jupyter notebook that implements a **Bayesian Structural VAR with agnostic identification** to isolate pure U.S. Fed policy shocks and trace their impact on Colombian macro-financial variables:
 
 - **Variables:** Unemployment, Inflation, Central Bank rate, Exchange rate (TRM), 5-year TES yields  
